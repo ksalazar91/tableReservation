@@ -1,0 +1,25 @@
+{
+  "name": "tablereservation",
+  "version": "1.0.0",
+  "description": "Building a Node / Express based web applications for handling reservation requests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksalazar91/tableReservation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksalazar91/tableReservation/issues"
+  },
+  "homepage": "https://github.com/ksalazar91/tableReservation#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
